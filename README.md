@@ -1,3 +1,4 @@
+"cell_type": "markdown"
 # HIV-Verlauf in Europa in den letzten 100 Jahren
 
 ### Die Gruppenmitglieder
