@@ -1,10 +1,9 @@
-"cell_type": "markdown"
 # HIV-Verlauf in Europa in den letzten 100 Jahren
 
 ### Die Gruppenmitglieder
-- **Eliah Diener**
-- **Danijel Antic**
-- **Alexandra Vlk**
+- **Eliah Diener** dieneeli@students.zhaw.ch
+- **Danijel Antic** anticdan@students.zhaw.ch
+- **Alexandra Vlk** vlkale01@students.zhaw.ch
 
 ---
 
