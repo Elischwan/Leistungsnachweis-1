@@ -1,4 +1,4 @@
-# HIV-Verlauf in Europa in den letzten 100 Jahren
+# HIV-Verlauf in Europa in den letzten 50 Jahren
 
 ### Die Gruppenmitglieder
 - **Eliah Diener** dieneeli@students.zhaw.ch
